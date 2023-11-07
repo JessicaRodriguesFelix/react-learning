@@ -3,7 +3,7 @@
 ## Built-in React Hooks:
 
 > As of November 7, 2023, there are 15 built-in react hooks.
-> Basic Hooks: useState, useEffect, useContext.
+> **Basic Hooks:** useState, useEffect, useContext.
 
 - State Hooks:
   - *State* let you "remember" information like input value or a selected image index. To add state to a componenet we can use one of these Hooks:
