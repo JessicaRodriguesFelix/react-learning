@@ -9,6 +9,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### useState examples
-Counter (number)
-![Counter](image.png)
-![Alt text](image-1.png)
+- Counter (number):
+  
+   <img src="image.png" width="25%" height="25%">
+   <img src="image-1.png" width="25%" height="25%">
