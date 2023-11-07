@@ -8,6 +8,7 @@
 - State Hooks:
   - *State* let you "remember" information like input value or a selected image index. To add state to a componenet we can use one of these Hooks:
     - useState: declares a state variable that you can update directly.
+    ![useState](image.png)
     - useReducer: declares a state variable with the _update logic_ inside a reducer function.
 
 
