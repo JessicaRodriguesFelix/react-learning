@@ -9,3 +9,8 @@
     - useState: declares a state variable that you can update directly.
     - useReducer: declares a state variable with the _update logic_ inside a reducer function.
 
+
+
+### Useful Resources:
+- 10 React Hooks Explained // Plus Build your own from Scratch (https://www.youtube.com/watch?v=TNhaISOUy6Q)
+-  
